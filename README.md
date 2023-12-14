@@ -4,17 +4,9 @@ Welcome to the College Hub repository! 🎓 This GitHub repository is your go-to
 
 ## Table of Contents
 
-- [College Hub Repository](#college-hub-repository)
-  - [Table of Contents](#table-of-contents)
-  - [About](#about)
-  - [Folders](#folders)
-    - [1. 📚 **Courses**](#1--courses)
-    - [2. 📝 **Assignments**](#2--assignments)
-    - [3. 💻 **Projects**](#3--projects)
-    - [4. 🗂️ **Miscellaneous**](#4-️-miscellaneous)
-  - [How to Contribute](#how-to-contribute)
-  - [Code of Conduct](#code-of-conduct)
-  - [License](#license)
+- [About](#about)
+- [Folders](#folders)
+- [Semester Repositories](#semester-repositories)
 
 ## About
 
@@ -38,32 +30,10 @@ The College Hub repository is designed to be a central hub for sharing and acces
 
 - For anything that doesn't fit neatly into the other categories—general college advice, internship experiences, and more.
 
-## How to Contribute
+## Semester Repositories
 
-We encourage you to contribute to the College Hub repository! Here's how you can get involved:
+Explore materials for specific semesters:
 
-1. **Fork the repository:** Click the "Fork" button in the top right corner of the repository.
-
-2. **Clone your fork:** Clone the repository to your local machine using `git clone`.
-
-3. **Create a branch:** Create a new branch for your contributions using `git checkout -b branch-name`.
-
-4. **Make your changes:** Add, modify, or delete files as needed.
-
-5. **Commit your changes:** Commit your changes with a descriptive commit message.
-
-6. **Push to your fork:** Push your changes to your fork with `git push origin branch-name`.
-
-7. **Create a Pull Request:** Open a Pull Request from your fork to the main repository.
-
-8. **Discuss and refine:** Engage in discussions and make any necessary changes based on feedback.
-
-## Code of Conduct
-
-Please note that this repository follows a [Code of Conduct](CODE_OF_CONDUCT.md). Be respectful and considerate of others. Any violation of the code of conduct will not be tolerated.
-
-## License
-
-This project is licensed under the [MIT License](LICENSE.md). By contributing, you agree to abide by the terms outlined in the license.
-
-Thank you for being a part of the College 
+- [Semester 1 Repository](https://github.com/your-username/Semester1)
+- [Semester 2 Repository](https://github.com/your-username/Semester2)
+<!-- - [Add More Semester Repositories](#) Add more links as needed -->
