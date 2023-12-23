@@ -1,6 +1,6 @@
 # College Stuff
 
-This GitHub repository contains all docuements, resources, etc I've collected over time and were accessible to me.
+This GitHub repository contains all the documents, resources, and other materials I've accumulated over time and had access to.
 
 ## Table of Contents
 
