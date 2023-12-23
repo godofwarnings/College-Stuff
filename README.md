@@ -1,6 +1,6 @@
-# College Hub Repository
+# College Stuff
 
-Welcome to the College Hub repository! 🎓 This GitHub repository is your go-to resource for all things related to college life. Whether you're a student looking for study materials, project resources, or just a place to share and collaborate with your peers, you've come to the right place.
+This GitHub repository contains all docuements, resources, etc I've collected over time and were accessible to me.
 
 ## Table of Contents
 
