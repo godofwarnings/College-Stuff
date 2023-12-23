@@ -11,7 +11,7 @@ Install openvpn on your system if you don't have it already. If I have some time
 sudo yay -Syu openvpn
 ```
 
-This installs openvpn along with any other updates pending. Otherwise, simply use
+this will install openvpn along with any other updates pending. Otherwise, simply use
 
 ```bash
 sudo yay -S openvpn
@@ -19,13 +19,12 @@ sudo yay -S openvpn
 
 You can use other package managers too like pacman or pamac or flatpak.
 
-## Step-by-Step procedure
+## Step-by-Step instructions to download and setup the VPN
 
-1. Go to https://vpn.iiit.ac.in/
-2. Go to "Instructions for Linux"
-![Step 1](../readme-resources/vpn-1.png)
-1. Download the configuration file "ubuntu.ovpn" by clicking here (you will be prompted to enter your username and password)
-2. After downloading the file, go to "Settings --> Network --> VPN" and add a connection. When prompted for the type of VPN to add, select the last option titled "Import from file".
-3. When prompted to choose a file, select the file that you just downloaded (ubuntu.ovpn).
-4. After you select the file, the configuration details will be filled in automatically. You just need to enter your username(your email address) and your password.
-5. Voila! You're good to go. Just toggle the switch as needed.
+1. Open your web browser and visit [https://vpn.iiit.ac.in/](https://vpn.iiit.ac.in/).
+2. Navigate to the **Instructions for Linux** section.
+3. Locate and download the configuration file named **ubuntu.ovpn** by clicking the provided link at the top. Please note that even though it mentions Ubuntu, this is the correct file for all users. You will then be prompted to enter your username and password in order to download the file.
+4. Once the file is downloaded, access your system's settings and go to **Settings --> Network --> VPN**. Create a new connection, and when prompted for the VPN type, choose the last option labeled **Import from file**.
+5. When prompted to select a file, choose the recently downloaded **ubuntu.ovpn** file.
+6. After selecting the file, the configuration details will be automatically populated. Simply enter your username (your email address) and password when prompted.
+7. Voila! You're good to go. Just toggle the switch as needed.
