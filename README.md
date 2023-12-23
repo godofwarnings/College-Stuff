@@ -4,31 +4,31 @@ This GitHub repository contains all docuements, resources, etc I've collected ov
 
 ## Table of Contents
 
-- [About](#about)
-- [Folders](#folders)
-- [Semester Repositories](#semester-repositories)
-
-## About
-
-The College Hub repository is designed to be a central hub for sharing and accessing college-related materials. From lecture notes and assignment templates to coding projects and study guides, this repository aims to facilitate collaboration and knowledge exchange among students.
+- [College Stuff](#college-stuff)
+  - [Table of Contents](#table-of-contents)
+  - [Folders](#folders)
+    - [1. **General Documents**](#1-general-documents)
+    - [2. **Setup Guides**](#2-setup-guides)
+  - [Semester Repositories](#semester-repositories)
 
 ## Folders
 
-### 1. 📚 **Courses**
+### 1. **General Documents**
 
-- This folder contains organized sub-folders for each course offered. Feel free to upload and access lecture notes, slides, and additional resources related to specific courses.
+This section houses general college documents such as the almanac, course syllabus, and more, organized by semester. Other documents like college bank details which are not based on semesters are in a separate folder titled "common".
 
-### 2. 📝 **Assignments**
+Contents:
 
-- Find and share assignment templates, guidelines, and useful tips for different subjects. Help your fellow students succeed in their coursework!
+- Monsoon 2023
+- Spring 2024
 
-### 3. 💻 **Projects**
+### 2. **Setup Guides**
 
-- Collaborate on coding projects, share your work, and find inspiration for new projects. This is a space to foster creativity and innovation.
+Explore step-by-step instructions for different tasks such as setting up the IIIT VPN on your system, and more.
 
-### 4. 🗂️ **Miscellaneous**
+Contents:
 
-- For anything that doesn't fit neatly into the other categories—general college advice, internship experiences, and more.
+- VPN setup guide for Manjaro users [VPN Guide](setup-guides/VPN_GUIDE_MANJARO.md)
 
 ## Semester Repositories
 
